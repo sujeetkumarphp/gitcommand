@@ -1,0 +1,10 @@
+1.  git status
+2.  git clone  https://github.com/sujeetkumarphp/test.git
+3. ls
+4. cd test
+5. git status
+6. git add test.txt(filename)
+7. git config --global user.email "sujeetkumar00001@gmail.com"
+8. git config --global user.name "sujeet"
+9.  git push origin master
+10. git status
