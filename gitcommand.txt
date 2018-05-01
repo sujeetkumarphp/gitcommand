@@ -3,8 +3,10 @@
 3. ls
 4. cd test
 5. git status
-6. git add test.txt(filename)
-7. git config --global user.email "sujeetkumar00001@gmail.com"
-8. git config --global user.name "sujeet"
-9.  git push origin master
-10. git status
+6. git add test.txt(filename) or git add --all
+
+7. git commit -m "added files"
+8. git config --global user.email "sujeetkumar00001@gmail.com"
+9. git config --global user.name "sujeet"
+10.  git push origin master
+11. git status
